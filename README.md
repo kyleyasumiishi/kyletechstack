@@ -8,3 +8,6 @@ PC
 Peripherals (monitor, keyboard, speakers, mouse)
 Network (modem, router)
 Furniture (desk, chair)
+
+html template element for reusing code: https://css-tricks.com/crafting-reusable-html-templates/
+use css flexbox to create navbar: https://codepen.io/RajRajeshDn/pen/LKzZNe

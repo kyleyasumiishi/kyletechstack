@@ -3,12 +3,24 @@
     <head>
         <title>Kyle PC Tech Stack</title>
         <style>
+            html, body {
+                height: 100%;
+                width: 100%;
+                padding: 0;
+                margin: 0;
+            }
             .wrapper {
                 display: flex;
                 flex-direction: row;
-            }
-            .navbar {
                 height: 100%;
+                width: 100%;
+            }
+            .sidebar {
+                height: 100%;
+                border: 2px solid black;
+            }
+            .content-area {
+                margin: 2px;
             }
             .heading {
                 text-align: center;
@@ -22,7 +34,7 @@
     </head>
     <body>
         <div class="wrapper">
-            <div class="navbar">
+            <div class="sidebar">
                 <ul>
                     <li><a href="index.html">Home</a></li>
                     <li><a href="pc.html">PC</a></li>
