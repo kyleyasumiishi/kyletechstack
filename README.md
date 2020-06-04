@@ -15,3 +15,5 @@ use css flexbox to create navbar: https://codepen.io/RajRajeshDn/pen/LKzZNe
 
 collapsible: https://www.w3schools.com/howto/howto_js_collapsible.asp
 bootstrap: https://getbootstrap.com/docs/4.5/getting-started/introduction/
+
+change target on a elements
