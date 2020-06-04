@@ -1,0 +1,37 @@
+html, body, .wrapper {
+    min-height: 100vh;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+    border: 2px solid black;
+}
+.sidebar {
+    border: 2px solid black;
+    padding: 10px;
+}
+.sidebar ul {
+    list-style-type: none;
+    padding: 10px;
+    margin: 20px;
+}
+.content-area {
+    margin: 2px;
+    width: 100%;
+}
+.heading {
+    text-align: center;
+}
+.content-component {
+    border: 2px solid black;
+    margin: 2px;
+    padding: 2px;
+}
+.content {
+    display: none;
+}
