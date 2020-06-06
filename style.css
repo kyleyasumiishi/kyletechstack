@@ -1,6 +1,8 @@
 html, body, .wrapper {
     min-height: 100vh;
-    width: 100vw;
+    min-width: 100vw;
+    overflow: auto;
+    width: 100%;
     padding: 0;
     margin: 0;
 }
@@ -31,9 +33,13 @@ html, body, .wrapper {
 .content-component {
     border: 2px solid black;
     margin: 5px;
+    width: 100%;
 }
 .content {
     display: none;
     padding: 10px;
 }
-
+.table-responsive-sm {
+    overflow:auto;
+    margin: 10px;
+}
