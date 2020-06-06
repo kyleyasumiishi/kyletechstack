@@ -43,3 +43,8 @@ html, body, .wrapper {
     overflow:auto;
     margin: 10px;
 }
+.content-component img {
+    height: auto;
+    max-width: 200px;
+    margin: 5px 5px 1rem 5px;
+}
