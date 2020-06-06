@@ -10,3 +10,20 @@ for (let i = 0; i < coll.length; i++) {
         }
     });
 }
+
+let isExpanded = true;
+const expandCollapse = document.getElementById("expandCollapse")
+expandCollapse.addEventListener("click", function() {
+    let content = document.getElementsByClassName("content");
+    if (isExpanded) {
+        for (let i = 0; i < content.length; i++) {
+            content[i].style.display = "none";
+        }
+        isExpanded = false;
+    } else {
+        for (let i = 0; i < content.length; i++) {
+            content[i].style.display = "block";
+        }
+        isExpanded = true;
+    }
+});
