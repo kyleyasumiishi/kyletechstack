@@ -58,3 +58,6 @@ html, body, .wrapper {
     max-width: 200px;
     margin: 5px 5px 1rem 5px;
 }
+.home-content {
+    margin: 3%;
+}
