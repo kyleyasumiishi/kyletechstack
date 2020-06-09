@@ -11,7 +11,7 @@ for (let i = 0; i < coll.length; i++) {
     });
 }
 
-let isExpanded = true;
+let isExpanded = false;
 const expandCollapse = document.getElementById("expandCollapse")
 expandCollapse.addEventListener("click", function() {
     let content = document.getElementsByClassName("content");
