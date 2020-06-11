@@ -61,3 +61,6 @@ html, body, .wrapper {
 .home-content {
     margin: 3%;
 }
+.bold {
+    font-weight: bold;
+}
