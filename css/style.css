@@ -53,6 +53,10 @@ html, body, .wrapper {
     overflow:auto;
     margin: 10px;
 }
+.table-responsive {
+    /* overflow:auto; */
+    margin: 10px;
+}
 .content-component img {
     height: auto;
     max-width: 200px;
