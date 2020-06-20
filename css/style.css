@@ -28,7 +28,6 @@ html, body, .wrapper {
     margin: 2px;
     width: 100%;
     background-color: #d0d0d0;
-    /* flex-shrink: 1; */
     max-width: 100%;
 }
 .heading {
@@ -52,23 +51,15 @@ html, body, .wrapper {
 .content {
     display: none;
     padding: 10px;
-    /* max-width: 100%; */
     overflow: hidden;
 }
-.table-responsive-sm {
-    overflow:auto;
-    margin: 10px;
-}
 .table-responsive {
-    /* overflow:auto; */
-    margin: 10px;
-    /* overflow: auto; */
-    /* width: 50% !important; */
+    padding: 2%;
+    overflow-x: auto;
 }
 .table {
-    overflow: auto;
-    /* width: 100% !important; */
-    table-layout: fixed;
+    width: 100%;
+    margin: 0;
 }
 .content-component img {
     height: auto;
@@ -80,4 +71,7 @@ html, body, .wrapper {
 }
 .bold {
     font-weight: bold;
+}
+.td, .th {
+    padding: 1%;
 }
