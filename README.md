@@ -15,6 +15,7 @@ Here are a few concepts I learned, re-learned, and practiced by creating this st
 
 * Several key git commands such as `git clone`, `git init`, `git add`, `git commit`, `git branch`, `git checkout`, `git merge`, `git push`, and `git pull`</li>
 * CSS flexbox to dynamically resize pages on different screen sizes
+* HTML `table` element, including several related css properties such as `table-layout: auto` vs `table-layout: fixed`.
 * JavaScript's `addEventListener()` method to execute a expand/collapse function when users click a button representing a PC or workstation componenet 
 * JavaScript's `getElementById()` to select an HTML element and `getElementsByClassName()` to work with an HTMLCollection of elements
 * Markdown to write this README.md. I used my <a href="https://kyleyasumiishi.github.io/markdown/#">Markdown Previewer</a> to test out the styling before deploying
