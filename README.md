@@ -9,7 +9,7 @@ This <a href="https://kyleyasumiishi.github.io/kyletechstack/">website</a> showc
 I built this website mainly for two reasons:
 
 1. <b>Document my tech stack for easy reference.</b> I built my first PC and home workstation setup in early 2020, and I wanted a quick and easy way to look up what components I used to remind myself or show others.</li>
-2. <b>Practice HTML, CSS, and JavaScript.</b> I'm diving back into web development and programming, and I wanted to build a static website that would allow me to brush up on my fundamentals and shed light on what concepts I need more practice on in future projects.
+2. <b>Practice HTML, CSS, and JavaScript.</b> I'm diving back into web development and programming as a hobby, and I wanted to build a static website that would allow me to brush up on my fundamentals and shed light on what concepts I need more practice on in future projects.
 
 Here is my original sketch of what I envisioned this website to look like:
 
