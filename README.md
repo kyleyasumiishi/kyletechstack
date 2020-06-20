@@ -2,7 +2,7 @@
 
 This <a href="https://kyleyasumiishi.github.io/kyletechstack/">website</a> showcases my PC and home workstation setup.
 
-<img src="https://gdurl.com/zVkm" alt="Screenshot of kyletechstack website" stye="border: 1px solid black; height: 200px; width: auto;">
+<a href="https://kyleyasumiishi.github.io/kyletechstack/"><img src="https://gdurl.com/zVkm" alt="Screenshot of kyletechstack website" stye="border: 1px solid black; height: 200px; width: auto;"></a>
 
 ## About
 
